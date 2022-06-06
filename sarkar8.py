@@ -84,7 +84,6 @@ def menu():
     print '\x1b[1;96mAUTHOR  : IQUBAL SARKAR '
     print '\x1b[1;96mFACEBOOK: sarkar.saheb420'
     print '\x1b[1;96mGITHUB  : github.com/IQUBAL420'
-    print '\x1b[1;96mFB-GROUP:TRS TEAM
     print ''
     print 50* '-'
     print '\x1b[1;92m--------------------------------------------------'
