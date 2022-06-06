@@ -272,5 +272,5 @@ def action():
  
 if __name__ == '__main__':
     menu()
-# okay decompiling jahied.pyc
+# okay decompiling sarkar8.pyc
  
